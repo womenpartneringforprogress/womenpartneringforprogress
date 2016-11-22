@@ -437,7 +437,7 @@ footer a:linl footer a:visited {
       
 .fa-angle-double-down {
 	font-size: 48px !important;
-	color: black;
+	color: white;
 }
 
 .fa-angle-double-down:hover {
@@ -446,7 +446,6 @@ footer a:linl footer a:visited {
 
 .down-arrow {
 	text-align: center;
-	margin-top: 200px;
 }
 
 
