@@ -433,6 +433,23 @@ footer a:linl footer a:visited {
 	font-size: 24px;
 }
 
+/*Hero down arrow */
+      
+.fa-angle-double-down {
+	font-size: 48px !important;
+	color: black;
+}
+
+.fa-angle-double-down:hover {
+	color: #ff5b62;
+}
+
+.down-arrow {
+	text-align: center;
+	margin-top: 200px;
+}
+
+
 
 
 
