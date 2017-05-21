@@ -40,22 +40,65 @@
 	margin-bottom: 30px !important;
 }
 
+.events-button{
+	text-align: center;
+}
+
+.large.text-muted {
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
 
 /*Clients*/
 
 .clients {
-	background-color: blue !important;
+	background-color: #3143B0 !important;
 }
 
 .email {
 	text-align: center;
 	margin: auto;
-	padding: 20px;
+	padding: 60px;
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	
+	font-size: 36px;
 }
 
+.email a {
+	color: white !important;
+}
 
+@media (max-width: 1200px) {
+  .email {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 500px) {
+  .email {
+    font-size: 12px;
+  }
+}
+
+/*================Leadership==============*/
+
+.small-section {
+	margin-bottom: 10px !important;
+}
+
+.blue-bar {
+	background-color: blue;
+	padding-right: 100px;
+}
+
+.social-buttons {
+	margin-top: 10px;
+	margin-bottom: 20px !important;
+}
+
+.mission {
+	text-align: left;
+}
 
 
 
